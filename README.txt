@@ -64,3 +64,13 @@ ACTUALIZACIÓN 17-08-2026 18:08 — CATÁLOGO, MEDIDAS Y PROMOCIÓN:
 - Se actualizaron las opciones del formulario de cotización con los nuevos nombres.
 - Se agregó la imagen assets/images/arco-rampa-resbaladero.png y se incluyó la foto actualizada del Tobogán Gigante como assets/images/tobogan-gigante.webp.
 - Se actualizó el control de caché de styles.css y app.js a la versión 20260817-1808.
+
+
+ACTUALIZACIÓN 17-08-2026 20:03 — PRÓXIMAS ATRACCIONES Y NOMBRES CORREGIDOS:
+- “Cubo Escalador Princesas y Unicornio” se movió de “Inflables para todas las edades y espacios” a “Nuevas atracciones llegan a Party Center”.
+- El Cubo Escalador aparece con aviso “PRÓXIMAMENTE!!!”, medidas 6 × 5 m y botón para apartar desde septiembre.
+- La fotografía assets/images/party-center-06.webp ahora se muestra como “Arco Rampa Resbaladero”.
+- La fotografía assets/images/arco-rampa-resbaladero.png ahora se muestra como “Túnel Escaladora Resbaladero”.
+- Se sincronizaron los nombres en la galería y en el formulario de cotización para evitar que aparezcan las denominaciones anteriores.
+- La sección “Próximamente” se ajustó a tres tarjetas en escritorio, dos en tablet y una en móvil.
+- Se actualizó el control de caché de styles.css y app.js a la versión 20260817-2003.
